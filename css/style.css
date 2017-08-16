@@ -1,0 +1,22 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-family: 'Marcellus SC', serif;
+  font-size: 33px;
+}
+
+.inputs{
+  border: 2px black solid;
+  border-radius: 25px;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  padding-top: 6%;
+  margin-left: 30%;
+  margin-top: 7%;
+  font-family: 'Marcellus SC', serif;
+  font-size: 15px;
+}
