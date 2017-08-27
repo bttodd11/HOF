@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bttodd11/HOF/issues"
   },
-  "homepage": "https://github.com/bttodd11/HOF#readme"
+  "homepage": "https://github.com/bttodd11/HOF#readme",
+  "dependencies": {
+    "react-dom": "^15.6.1"
+  }
 }
