@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bttodd11/HOF#readme",
   "dependencies": {
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react": "^15.3.2"
   }
 }
