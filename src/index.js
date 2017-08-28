@@ -1,15 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Update from "./Update";
 
 
-
-const Update = function(){
-return(
-<h2> Hi </h2>
-);
-}
 ReactDOM.render(
+  <Update />
   <h1> Hello World </h1>,
   document.getElementById('root')
 );
