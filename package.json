@@ -1,23 +1,16 @@
 {
-  "name": "react",
+  "name": "HOF",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "HOF react app",
+  "main": "src.index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node public/index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bttodd11/HOF.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bttodd11/HOF/issues"
-  },
-  "homepage": "https://github.com/bttodd11/HOF#readme",
+  "repository": "https://github.com/bttodd11/HOF.git",
+  "author": "bttodd11 <bttodd@icloud.com>",
+  "license": "MIT",
   "dependencies": {
-    "react-dom": "^15.6.1",
-    "react": "^15.3.2"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   }
 }
